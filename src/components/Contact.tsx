@@ -28,7 +28,7 @@ export function Contact() {
                 </a>
 
                 <a
-                    href="mailto:your.email@example.com"
+                    href="madil22@iitk.ac.in"
                     className="flex items-center space-x-2 bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition"
                 >
                     <FaEnvelope size={20} />
